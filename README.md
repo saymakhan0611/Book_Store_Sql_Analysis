@@ -60,6 +60,10 @@ This project answers questions such as:
 <img width="692" height="205" alt="Revenue by Genre" src="https://github.com/user-attachments/assets/fd985a4c-2c6b-4b02-b1cd-c21fc7088add" />
 <img width="817" height="287" alt="Most Order book" src="https://github.com/user-attachments/assets/0f670214-b270-4342-b592-8b05a0504e0f" />
 <img width="907" height="282" alt="Top customer" src="https://github.com/user-attachments/assets/3d47c41a-6bd9-4adf-8d10-a1af3571df00" />
+### Conclusion
+This Book Store SQL Data Analysis project demonstrates how SQL can be used to transform raw bookstore data into meaningful business insights.
+The analysis covers sales, customers, books, genres, authors, revenue, and inventory, providing practical experience with SQL Server and relational data analysis.
+This project is part of my Data Analyst portfolio and demonstrates my practical SQL skills.
 
 
 
