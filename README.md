@@ -8,6 +8,8 @@ I have develop Book Store Data Analysis project using SQL Server, he objective o
 ### Database Structure
 The project uses three main tables:
 1. Books: It Contains information about books available in the bookstore.
+2. Customers: It Contains customer information.
+3. Orders: It Contains information about customer orders.
 ### SQL File
 <a href="https://github.com/saymakhan0611/Book_Store_Sql_Analysis/tree/main/Sql">File</a>
 ### Project Objectives
@@ -53,9 +55,9 @@ This project answers questions such as:
 - Which book is ordered most frequently?
 - Which authors sell the most books?
 - Which customers spend the most?
-- How much stock remains after fulfilling orders
+- How much stock remains after fulfilling orders?
 ### Query_Screenshot
-<a href="https://github.com/saymakhan0611/Book_Store_Sql_Analysis/tree/main/Screenshot">Screenshot</a>
+
 
 <img width="692" height="205" alt="Revenue by Genre" src="https://github.com/user-attachments/assets/fd985a4c-2c6b-4b02-b1cd-c21fc7088add" />
 <img width="817" height="287" alt="Most Order book" src="https://github.com/user-attachments/assets/0f670214-b270-4342-b592-8b05a0504e0f" />
