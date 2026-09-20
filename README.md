@@ -69,6 +69,5 @@ The analysis covers sales, customers, books, genres, authors, revenue, and inven
 This project is part of my Data Analyst portfolio and demonstrates my practical SQL skills.
 
 
-
 Date filtering
 Inventory calculations
