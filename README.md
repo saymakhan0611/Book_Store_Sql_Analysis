@@ -10,3 +10,14 @@ The project uses three main tables:
 1. Books: It Contains information about books available in the bookstore.
 ### SQL File
 <a href="https://github.com/saymakhan0611/Book_Store_Sql_Analysis/tree/main/Sql">File</a>
+### Project Objectives
+The main objectives of this project are:
+- Analyze bookstore inventory
+- Identify expensive and low-stock books
+- Analyze book genres
+- Analyze customer orders
+- Calculate total revenue
+- Identify frequently ordered books
+- Analyze sales by genre and author
+- Identify high-spending customers
+- Calculate remaining book stock after orders
