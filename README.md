@@ -55,6 +55,6 @@ This project answers questions such as:
 - Which customers spend the most?
 - How much stock remains after fulfilling orders?
 ### Query_Screenshot
-
+<a href="https://github.com/saymakhan0611/Book_Store_Sql_Analysis/tree/main/Screenshot">Screenshot</a>
 Date filtering
 Inventory calculations
